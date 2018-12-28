@@ -62,7 +62,7 @@
     "tslint-eslint-rules": "4.1.1"
   },
   "dependencies": {
-    "chalk": "2.0.1",
+    "chalk": "2.1.0",
     "yargs": "8.0.2",
     "cheerio": "1.0.0-rc.2",
     "fs": "0.0.1-security",
